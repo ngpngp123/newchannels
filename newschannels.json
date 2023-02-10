@@ -2,6 +2,11 @@
   {
     "type":"Myanmar",
 "chs": [
+  {
+"title":"Y TV",
+"img":"https://upload.wikimedia.org/wikipedia/en/6/68/YTV_Logo.png",
+"link":"http://183.89.246.119:8881/play/a081/index.m3u8"
+},
     
 {
 "title":"Mahar Esport",
