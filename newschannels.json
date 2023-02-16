@@ -240,11 +240,7 @@
   {
     "type":"Vietnum",
     "chs": [
-{ 
-        "title":"VTV 1 FHD",
-      "img":"",
-      "link":"http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1861890017?profile=pass"
-      },
+
       { 
         "title":"VTV 2 FHD",
       "img":"https://lichtruyenhinh.com/wp-content/uploads/2022/03/Lich-phat-song-vtv2-www.lichtruyenhinh.com_.jpeg",
@@ -256,11 +252,7 @@
       "img":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Truyen-hinh-vtv3.png/640px-Truyen-hinh-vtv3.png",
       "link":"http://live-zlr1.tv360.vn/manifest/VTV3/playlist_1080p-3M.m3u8"
         },
-      { 
-        "title":"VTV 4 FHD",
-      "img":"",
-      "link":"http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1767166878?profile=pass"
-      },
+      
         {
           "title":"VTV 5 FHD",
       "img":"",
@@ -271,22 +263,8 @@
           "title":"VTV 6 FHD",
       "img":"",
       "link":"http://live.tv360.vn/manifest/VTV6_HD/playlist_1080p.m3u8"
-        },
-    { 
-        "title":"VTV 7 FHD",
-      "img":"",
-      "link":"http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1619991121?profile=pass"
-      },
-{ 
-        "title":"VTV 8 FHD",
-      "img":"",
-      "link":"http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/865363684?profile=pass"
-      },
-{ 
-        "title":"VTV 9 FHD",
-      "img":"",
-      "link":"http://hodam1010:12345678@hothanhdam.dsmynas.com:9981/stream/channelid/1223238199?profile=pass"
-      }
+        }
+    
     ]
   }
 
